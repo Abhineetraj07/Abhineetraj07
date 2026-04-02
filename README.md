@@ -15,6 +15,9 @@
   <a href="https://github.com/Abhineetraj07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/abhineet-raj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -39,6 +42,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Framework-2CA5E0?style=flat-square)
 
 **Full-Stack**
 
@@ -48,7 +52,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Mobile & Tools**
+**Mobile & DevOps**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -63,23 +67,27 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🎬 [FilmBot](https://github.com/Abhineetraj07/FilmBot) | Agentic AI chatbot for movie discovery with guardrails, tool-use & IMDB local DB | Python · LLM · SQLite |
-| ⚖️ [Verdict](https://github.com/Abhineetraj07/Verdict) | AI-powered legal reasoning engine with Docker, CLI & REST backend | Python · FastAPI · Docker |
-| 🌾 [MTL-ViT Rice Disease Detection](https://github.com/Abhineetraj07/MTL-ViT-Rice-Disease-Detection) | Multi-task Vision Transformer for rice disease & nutrient deficiency detection | PyTorch · ViT · Gradio |
-| 💊 [LowPharma](https://github.com/Abhineetraj07/LowPharma) | Full-stack platform for low-cost pharmaceutical discovery | JS · Node.js · React |
-| 🧠 [Empathetic AI Tutor](https://github.com/Abhineetraj07/Empathetic-and-Adaptive-AI-Tutor) | Emotion-aware adaptive tutoring system with gamified learning | Python · LLM · CV |
-| 📋 [Asha HBYC App](https://github.com/Abhineetraj07/Asha_HBYC_App) | Android app for ASHA healthcare workers — digitizes child health forms | Kotlin · Firebase · Jetpack Compose |
+| ⚖️ [Verdict](https://github.com/Abhineetraj07/Verdict) | Federated LLM evaluation framework — multi-judge scoring with interactive dashboard | Python · LangGraph · React |
+| 🌾 [MTL-ViT Rice Detection](https://github.com/Abhineetraj07/MTL-ViT-Rice-Disease-Detection) | Multi-task Vision Transformer for rice disease & nutrient deficiency (96%+ accuracy) | PyTorch · ViT · Gradio |
+| 💊 [LowPharma](https://github.com/Abhineetraj07/LowPharma) | Full-stack online pharmacy platform with prescription workflows & analytics | React · FastAPI · SQLite |
+| 🧠 [Empathetic AI Tutor](https://github.com/Abhineetraj07/Empathetic-and-Adaptive-AI-Tutor) | Emotion-aware adaptive tutoring system with gamified learning & real-time detection | Python · DeepFace · LLM |
+| 📋 [Asha HBYC App](https://github.com/Abhineetraj07/Asha_HBYC_App) | Android app digitizing child health reporting for ASHA workers (bilingual EN/HI) | Kotlin · Firebase · Compose |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhineetraj07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abhineetraj07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhineetraj07&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
