@@ -78,16 +78,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="160" />
+  <a href="https://github.com/Abhineetraj07">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+  </a>
+  <a href="https://github.com/Abhineetraj07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhineetraj07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abhineetraj07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhineetraj07&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhineetraj07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
