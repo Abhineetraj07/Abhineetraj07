@@ -42,7 +42,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Framework-2CA5E0?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2CA5E0?style=flat-square&logoColor=white)
 
 **Full-Stack**
 
@@ -78,12 +78,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Abhineet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Repos-9-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-45%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20TS%20%7C%20Kotlin%20%7C%20Java-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhineetraj07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/AI%2FML-Vision_Transformers_%7C_LLM_Agents_%7C_RAG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI_%7C_Node.js_%7C_Docker-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Jetpack_Compose_%7C_Firebase-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%7C_Pytest-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Abhineetraj07/FilmBot?label=FilmBot%20last%20commit&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/Abhineetraj07/Verdict?label=Verdict%20last%20commit&style=flat-square&color=purple" />
+  <img src="https://img.shields.io/github/last-commit/Abhineetraj07/MTL-ViT-Rice-Disease-Detection?label=MTL-ViT%20last%20commit&style=flat-square&color=green" />
 </p>
 
 ---
@@ -93,8 +103,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake.svg" />
 </picture>
+
+> 🔄 Snake auto-updates daily via GitHub Actions. [Trigger it manually here](https://github.com/Abhineetraj07/Abhineetraj07/actions/workflows/snake.yml) if it hasn't run yet.
 
 ---
 
