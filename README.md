@@ -78,25 +78,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Abhineetraj07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-  </a>
-  <a href="https://github.com/Abhineetraj07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhineetraj07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Abhineet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhineetraj07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhineetraj07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Abhineetraj07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhineetraj07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhineetraj07/Abhineetraj07/output/github-snake.svg" />
+</picture>
 
 ---
 
